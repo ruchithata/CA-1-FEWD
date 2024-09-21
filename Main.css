@@ -1,0 +1,56 @@
+*{
+    font-style: Roboto;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+}
+
+.main{
+    padding: 30px;
+    align-items: center;
+}
+.sidebar{
+    width: 200px;
+    color: white;
+    background-color: lightgrey;
+    position: static;
+    
+}
+.list{
+    padding: 5px;
+}
+.list:hover{
+    background-color: rgb(70, 63, 63);
+}
+bar{
+    padding: 20px;
+
+}
+ul{
+    list-style: none;
+}
+
+.full{
+    display: flex;
+    margin-top: 0%;
+}
+
+.navtop{
+    margin-left: 500px;
+    display: flex;
+}
+}
+.searchbar{
+    height: 20px;
+    width: 700px;
+    align-items: center;
+}
+.search.png{
+    background-color: lightgrey ;
+}
+.right{
+    margin-left: 900px;
+}
+button{
+    border-radius: 
+}
